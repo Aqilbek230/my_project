@@ -47,6 +47,7 @@
 # print(sanlar_kvadrati)   
 
 # doslar=[]
+# print("5 dostinizidn atin kiritin: ")
 # for n in range(5):
 #     doslar.append(input(f"{n+1} dostinnin atin kiritin:"))
 # print(doslar)
